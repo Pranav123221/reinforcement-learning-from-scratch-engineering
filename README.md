@@ -19,7 +19,10 @@
 
 ## Reinforcement Learning Architecture
 
-![RL Architecture](assets/diagrams/rl-agent-environment.png)
+<img width="1024" height="576" alt="Slide5-1024x576" src="https://github.com/user-attachments/assets/fa3913a7-845c-4cc4-b544-e3334dee679d" />
+
+
+
 
 ---
 
