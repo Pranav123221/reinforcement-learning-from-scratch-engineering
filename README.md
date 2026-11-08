@@ -1,5 +1,3 @@
-# Reinforcement Learning Implementations
-
 <div align="center">
 
 # Reinforcement Learning Implementations
